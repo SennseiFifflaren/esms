@@ -15,3 +15,5 @@ Charcoal and lime, interactive player/captain tabs, direct access to league feat
 Open `index.html` for the gallery. No build or dependencies required. All assets are local. Account and competition links lead to the original website. Figures are a snapshot, not live data; chess positions are illustrative. The SX-AAC logo is sourced from the original site for these redesign proposals; no endorsement is implied.
 
 Mobile previews: [Concept 01](assets/concept-01-mobile.png) · [Concept 02](assets/concept-02-mobile.png).
+
+The statistics scroll horizontally in a seamless loop in both concepts. Hover or keyboard focus pauses the motion; the pause button keeps it paused. Reduced-motion preferences display a static grid. Counts remain the original snapshot.
